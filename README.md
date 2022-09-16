@@ -37,11 +37,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some of the challenges I faced while building the app was familiarizing myself with the language. Also, mid-way throughout my project, I ran into a non-syntactical error. I kept getting an error mentioning that the Kotlin version in Android studio was running a different version on my app. I searched the issue on Stack Overflow and was able to resolve it. Also figuring out how the functions work with each other took a bit of time. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Jennifer Vasquez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
